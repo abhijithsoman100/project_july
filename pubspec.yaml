@@ -38,6 +38,8 @@ dependencies:
   flutter_custom_clippers: ^2.1.0
   expansion_tile_card: ^3.0.0
   readmore: ^2.2.0
+  google_maps_flutter: ^2.5.0
+  shared_preferences: ^2.2.2
 
 
   # The following adds the Cupertino Icons font to your application.
