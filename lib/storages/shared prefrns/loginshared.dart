@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'homeshared.dart';
-import 'shared prefrns/homeshared.dart';
+
 
 void main(){
   runApp(MaterialApp(home: Login_Shared(),));
